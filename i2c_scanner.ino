@@ -1,5 +1,5 @@
     // --------------------------------------
-    // i2c_scanner
+    // i2c_scanner manoranjan2050
     //
     // Version 1
     //    This program (or code that looks like it)
